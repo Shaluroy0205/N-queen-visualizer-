@@ -29,10 +29,6 @@ The N-Queens problem involves placing N queens on an N×N chessboard so that no 
 
 You need a web browser to run this project.
 
-### Installation
-
- **Open** `index.html` in your preferred web browser, or visit the live version at (https://github.com/Tapas3341/N-Queens-Visualizer)
-
 ## 🎮 Controls
 
 - **Start**: Begins the visualization of the backtracking algorithm
@@ -41,7 +37,3 @@ You need a web browser to run this project.
 ## 🤝 Contributing
 
 Contributions are welcome! If you have suggestions for improvements or find any issues, please open an issue or submit a pull request.
-
-
-
-Made with ❤️ by [Tapasendra Patra](https://github.com/Tapas3341)
